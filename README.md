@@ -1,13 +1,10 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on: Android Apps, UI/UX Design.
-- 🌱 I’m currently learning: Kotlin, Graphic Design.
-- 💬 Ask me about: Android, UI/UX, Programming, Career in Tech. 
-- 📫 How to reach me: linktr.ee/shaiicodez 
-- ⚡ Fun fact: I hate Coffee ☕️ 
+- 🔭 I’m currently working on: android apps, UI/UX design, growing my tech blog.
+- 🌱 I’m currently learning: kotlin, graphic design.
+- 💬 Ask me about: android, UI/UX, programming, career in tech. 
+- 📫 How to reach me: [here](https://www.linktr.ee/shaiicodez)
+- ⚡ Fun fact: I hate coffee.
 <!-- 
 - 😄 Pronouns: ... 
 - 👯 I’m looking to collaborate on ...
