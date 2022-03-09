@@ -3,11 +3,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on:
-- 🌱 I’m currently learning: 
-- 💬 Ask me about: Deisgn
-- 📫 How to reach me: 
-- ⚡ Fun fact: 
+- 🔭 I’m currently working on: Android Apps, UI/UX Design.
+- 🌱 I’m currently learning: Kotlin, Graphic Design.
+- 💬 Ask me about: Android, UI/UX, Programming, Career in Tech. 
+- 📫 How to reach me: linktr.ee/shaiicodez 
+- ⚡ Fun fact: I hate Coffee ☕️ 
 <!-- 
 - 😄 Pronouns: ... 
 - 👯 I’m looking to collaborate on ...
